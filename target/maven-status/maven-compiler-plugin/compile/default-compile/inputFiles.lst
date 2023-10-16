@@ -1,0 +1,10 @@
+C:\Users\smartinez4\Documents\CURSOS\SpringBoot\register-login-logout-springBoot-Thymeleaf-main\src\main\java\com\blog\backend\BlogBackendSpringApplication.java
+C:\Users\smartinez4\Documents\CURSOS\SpringBoot\register-login-logout-springBoot-Thymeleaf-main\src\main\java\com\blog\backend\model\User.java
+C:\Users\smartinez4\Documents\CURSOS\SpringBoot\register-login-logout-springBoot-Thymeleaf-main\src\main\java\com\blog\backend\config\SecurityConfiguration.java
+C:\Users\smartinez4\Documents\CURSOS\SpringBoot\register-login-logout-springBoot-Thymeleaf-main\src\main\java\com\blog\backend\dto\UserRegistrationDto.java
+C:\Users\smartinez4\Documents\CURSOS\SpringBoot\register-login-logout-springBoot-Thymeleaf-main\src\main\java\com\blog\backend\repository\UserRepository.java
+C:\Users\smartinez4\Documents\CURSOS\SpringBoot\register-login-logout-springBoot-Thymeleaf-main\src\main\java\com\blog\backend\model\Role.java
+C:\Users\smartinez4\Documents\CURSOS\SpringBoot\register-login-logout-springBoot-Thymeleaf-main\src\main\java\com\blog\backend\service\UserServiceImpl.java
+C:\Users\smartinez4\Documents\CURSOS\SpringBoot\register-login-logout-springBoot-Thymeleaf-main\src\main\java\com\blog\backend\web\RegistrationController.java
+C:\Users\smartinez4\Documents\CURSOS\SpringBoot\register-login-logout-springBoot-Thymeleaf-main\src\main\java\com\blog\backend\service\UserService.java
+C:\Users\smartinez4\Documents\CURSOS\SpringBoot\register-login-logout-springBoot-Thymeleaf-main\src\main\java\com\blog\backend\web\HomeController.java

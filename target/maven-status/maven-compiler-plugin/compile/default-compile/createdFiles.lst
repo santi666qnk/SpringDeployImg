@@ -1,0 +1,10 @@
+com\blog\backend\web\RegistrationController.class
+com\blog\backend\web\HomeController.class
+com\blog\backend\model\Role.class
+com\blog\backend\BlogBackendSpringApplication.class
+com\blog\backend\dto\UserRegistrationDto.class
+com\blog\backend\service\UserServiceImpl.class
+com\blog\backend\service\UserService.class
+com\blog\backend\repository\UserRepository.class
+com\blog\backend\model\User.class
+com\blog\backend\config\SecurityConfiguration.class
